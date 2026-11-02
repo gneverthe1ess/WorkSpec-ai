@@ -1,0 +1,6 @@
+{
+  "name": "WorkSpec AI - AI 기반 기업 공정 & 직무 역량 취업 플랫폼",
+  "description": "기업별 제품 생산 공정 흐름도, 직무 기술 학습, 채용공고 포트폴리오 AI 매칭 분석 및 최신 산업 트렌드를 제공하는 통합 AI 취업 준비 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
